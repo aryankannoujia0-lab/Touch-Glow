@@ -1,0 +1,6 @@
+{
+  "name": "Touch and Glow - AI Makeup & Outfit Virtual Try-On",
+  "description": "Premium AI-powered virtual makeup and outfit try-on application tailored for Indian skin tones, festive glam, and curated budget beauty kits with affiliate recommendations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
